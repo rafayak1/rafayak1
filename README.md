@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome to my profile! ;Please see all my projects and I hope you enjoy your time here)](https://git.io/typing-svg)
 <!--
 **rafayak1/rafayak1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
