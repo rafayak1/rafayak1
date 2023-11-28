@@ -6,6 +6,6 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/rafaykhan11/)** ,**[Facebook](https://www.facebook.com/profile.php?id=100000584407410)**, **[Email](rafayak2002@gmail.com)**, **[Instagram](https://www.instagram.com/rafayak/)** and **[Portfolio](https://rafaykhan-portfolio.netlify.app)**
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/rafaykhan11/)**, **[Email](rafayak2002@gmail.com)**, **[Instagram](https://www.instagram.com/rafayak/)** **[LinkedIn](https://www.linkedin.com/in/rafaykhan11/)
 
 
